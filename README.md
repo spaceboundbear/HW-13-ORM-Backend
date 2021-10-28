@@ -1,3 +1,4 @@
+![node](https://user-images.githubusercontent.com/86039208/139172118-72783777-3e36-4082-b370-2efa8d9bee8f.PNG)
 
   # Title: E-Commerce Back End
   ## Table of Contents
@@ -9,6 +10,8 @@
   6.[License Info](#license)</br>
   7.[Questions](#questions)</br>  
 
+  ## Link to Video:
+  https://vimeo.com/639782404/a2a1c93b95
 
   # <span id="desc"></span>
   # Project Description: 
